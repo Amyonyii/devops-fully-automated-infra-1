@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "naeto.pem"
+    default = "naeto"
 }
 
 # variable "vpc_id" {
